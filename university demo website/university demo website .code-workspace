@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "eduford_img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "university demo website "
+	}
+}
